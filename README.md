@@ -1,4 +1,4 @@
-# udp-CdS-ldr-v2
+# esp8266-udp-CdS-LDR
 Use the internal ADC of the esp8266 to read light intensity from a Cadmium sulfide sensor.
 
 tl;dr: Get rrdtool and python bindings, create a round robin DB yourself
